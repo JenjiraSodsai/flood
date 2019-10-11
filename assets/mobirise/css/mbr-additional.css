@@ -786,6 +786,14 @@ section.lazy-placeholder:after {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
+.cid-rEAfuwQy35 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #efefef;
+}
+.cid-rEAfuwQy35 .mbr-section-subtitle {
+  color: #767676;
+}
 .cid-rEzkQz6ghm {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1353,7 +1361,7 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-rEzkVOZ5jn {
-  padding-top: 120px;
+  padding-top: 60px;
   padding-bottom: 60px;
   background-color: #efefef;
 }
